@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **bennettkautz@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1X9g5JX9duIvlcx-_piAMi5IO7d7mvkbD7KckCBikU9Y/edit](https://docs.google.com/document/d/1X9g5JX9duIvlcx-_piAMi5IO7d7mvkbD7KckCBikU9Y/edit)
-
 - ⚡ Fun fact **I love exercising, basketball and the drums!**
 
 <h3 align="left">Connect with me:</h3>
