@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bennett</h1>
-<h3 align="center">A passionate frontend developer from New Jersey</h3>
+<h3 align="center">A passionate full-stack developer from New Jersey</h3>
 
-- 🌱 I’m currently learning **React, Node, Javascript, Redux, Hooks, Express, HTML, and CSS**
+- 🌱 I’m currently learning **React, Nextjs, Node, Javascript, Redux, Hooks, Express, HTML, and CSS**
 
 - 💬 Ask me about **React, Redux and Hooks.**
 
 - 📫 How to reach me **bennettkautz@gmail.com**
 
-- ⚡ Fun fact **I love exercising, basketball and the drums!**
+- ⚡ Fun fact **I love exercising, basketball, and the drums!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
